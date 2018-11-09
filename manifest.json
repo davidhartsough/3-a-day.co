@@ -1,6 +1,6 @@
 {
-  "name": "__NAME__",
-  "short_name": "__SHORTNAME__",
+  "name": "3-a-day",
+  "short_name": "3-a-day",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -13,8 +13,8 @@
       "type": "image/png"
     }
   ],
-  "theme_color": "#000000",
-  "background_color": "#000000",
+  "theme_color": "#00BE6A",
+  "background_color": "#f3f6f5",
   "start_url": "/",
   "display": "standalone"
 }
